@@ -111,3 +111,29 @@ This is where all the files are located so you can easily find them.
 ## About the Author
 
 I am **Palak Mitruka** and I am a student of CSE, at VIT Bhopal. I made the Resume Builder using Python and I hope you find it useful.
+
+##  Sample Output  
+
+========== RESUME ==========
+
+Name      : Palak
+Email     : palakmitruka05@gmail.com
+Phone     : 8949261959
+
+--- OBJECTIVE ---
+A motivated Computer Science student seeking to enhance technical skills and gain practical experience through real-world projects and continuous learning.
+
+--- EDUCATION ---
+B.Tech in Computer Science and Engineering,VIT bhopal University,2025 present
+
+--- SKILLS ---
+C programming, Python(basic), problem solving , teamwrok and communication
+
+--- PROJECTS ---
+Resume Builder using Python ,Digital Literacy Awareness Project , unit conversion project
+
+--- HOBBIES ---
+reading, coding , listening to music,,Exploring new technologies 
+
+============================
+
